@@ -1,0 +1,16 @@
+{
+  "name": "trying-editframe",
+  "version": "1.0.0",
+  "description": "Just trying some cool editframe features",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Marcus Quixabeira",
+  "license": "ISC",
+  "dependencies": {
+    "@editframe/editframe-js": "^3.9.0",
+    "dotenv": "^16.0.3",
+    "subtitle": "^4.2.1"
+  }
+}

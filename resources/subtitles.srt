@@ -1,0 +1,28 @@
+1
+00:00:00,200 --> 00:00:01,500
+Hello guys, Marcus here
+
+2
+00:00:01,600 --> 00:00:03,100
+Editframe is really <strong>AWESOME</strong>!
+
+3
+00:00:03,200 --> 00:00:04,700
+I'm not a videos editor
+but I can do cool things using it
+
+4
+00:00:04,800 --> 00:00:06,300
+Add images, musics, subtitles and transitions
+
+5
+00:00:06,400 --> 00:00:08,000
+to our videos, like this one
+
+6
+00:00:08,100 --> 00:00:09,600
+I hope to meet you soon guys
+
+7
+00:00:09,700 --> 00:00:15,000
+Salutes from Brazil!
