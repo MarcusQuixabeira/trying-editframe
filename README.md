@@ -6,6 +6,9 @@
 [Node-url]: https://nodejs.org/es/
 
 
+https://user-images.githubusercontent.com/5691887/216194161-faed2c92-92ee-4b07-baef-be53eaaf208a.mp4
+
+
 # Setup
 ## Preparing the environment
 
